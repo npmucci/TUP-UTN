@@ -9,7 +9,21 @@ triángulo es:
 using namespace std;
 
 int main(){
+    int lado1,lado2,lado3;
+    cout << "Ingrese el lado 1" << endl;
+    cin >> lado1;
+    cout << "Ingrese el lado 2" << endl;
+    cin >> lado2;
+    cout << "Ingrese el lado 3" << endl;
+    cin >> lado3;
 
+    if(lado1 == lado2 && lado2==lado3){
+        cout << "El triangulo es Equilatero"<< endl;
+    } else if(lado1!=lado2 && lado2!=lado3 && lado1!=lado3){
+        cout << "El triangulo es Escaleno" << endl;
 
+    }else{
+        cout << "El triangulo es Isoceles" << endl;
+    }
 return 0;
 }
