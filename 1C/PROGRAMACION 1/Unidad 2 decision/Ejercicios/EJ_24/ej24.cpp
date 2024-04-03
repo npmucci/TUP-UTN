@@ -14,6 +14,19 @@ using namespace std;
 
 
 int main(){
-               cout<<"3";
+    int mes, trimestre, resto;
+
+    cout << "Ingrese un numero de mes" << endl;
+    cin >> mes;
+    resto = mes % 3;
+
+    if( resto !=0){
+        trimestre = ((mes -resto)/3) +1;
+    }else{
+        trimestre = mes/3;
+    }
+
+    cout << "El mes " << mes << " corresponde al trimestre " << trimestre << endl;
+
 return 0;
 }

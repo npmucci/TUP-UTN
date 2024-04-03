@@ -8,11 +8,11 @@ using namespace std;
 
 int main(){
     int num1, num2, num3;
-    cout <<"Ingese el primer numero" << endl;
+    cout <<"Ingrese el primer numero" << endl;
     cin >> num1;
-    cout <<"Ingese el segundo numero" << endl;
+    cout <<"Ingrese el segundo numero" << endl;
     cin >> num2;
-    cout <<"Ingese el tercer numero" << endl;
+    cout <<"Ingrese el tercer numero" << endl;
     cin >> num3;
 
     if(num1==num2){

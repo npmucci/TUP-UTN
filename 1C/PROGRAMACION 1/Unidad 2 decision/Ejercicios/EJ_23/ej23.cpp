@@ -14,6 +14,19 @@ using namespace std;
 
 
 int main(){
+    int mes, bimestre, resto;
+
+    cout << "Ingrese un numero de mes" << endl;
+    cin >> mes;
+    resto = mes % 2;
+
+    if( resto !=0){
+        bimestre = ((mes -resto)/2) +1;
+    }else{
+        bimestre = mes/2;
+    }
+
+    cout << "El mes " << mes << " corresponde al bimestre " << bimestre << endl;
 
 return 0;
 }

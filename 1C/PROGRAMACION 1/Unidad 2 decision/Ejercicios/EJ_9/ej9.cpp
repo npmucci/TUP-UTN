@@ -1,4 +1,4 @@
-/*9 Hacer un programa para ingresar tres números y listar el máximo de ellos.*/
+/*9 Hacer un programa para ingresar tres nï¿½meros y listar el mï¿½ximo de ellos.*/
 
 
 #include <iostream>
@@ -17,7 +17,7 @@ int main(){
 	if(num1>num2 && num1>num3){
 		cout << "El numero mas grande es: " << num1 << endl;
 	}
-	else if(num2>num18999 && num2>num3){
+	else if(num2>num1 && num2>num3){
 		cout << "El numero mas grande es: " << num2 << endl;
 
 	} else{
