@@ -20,3 +20,13 @@
 	<sys/types.h>
 	<sys/time.h>
 
+1718298304 source:c:\users\user\desktop\cartas\funciones.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1718298477 c:\users\user\desktop\cartas\funciones.h
+
