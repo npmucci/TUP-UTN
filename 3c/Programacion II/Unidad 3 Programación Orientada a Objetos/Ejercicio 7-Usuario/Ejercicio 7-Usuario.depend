@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1725242726 source:c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\ejercicio 7-usuario\main.cpp
+	<iostream>
+	"Usuario.h"
+
+1725242063 c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\ejercicio 7-usuario\usuario.h
+
+1725242291 source:c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\ejercicio 7-usuario\usuario.cpp
+	<iostream>
+	"Usuario.h"
+

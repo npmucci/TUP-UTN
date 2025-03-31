@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1724985729 source:c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 2 memoria dinamica\ejercicio 5_ termometro\main.cpp
+	<iostream>
+	"Termometro.h"
+
+1724984707 source:c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 2 memoria dinamica\ejercicio 5_ termometro\termometro.cpp
+	<iostream>
+	"Termometro.h"
+
+1724985892 c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 2 memoria dinamica\ejercicio 5_ termometro\termometro.h
+

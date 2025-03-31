@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1724954396 source:c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\cuenta bancaria\cuentabancaria.cpp
+	<iostream>
+	"CuentaBancaria.h"
+
+1724954396 c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\cuenta bancaria\cuentabancaria.h
+
+1724954907 source:c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\cuenta bancaria\main.cpp
+	<iostream>
+	"CuentaBancaria.h"
+
+1724954396 source:c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\ejercicio 3_cuenta bancaria\cuentabancaria.cpp
+	<iostream>
+	"CuentaBancaria.h"
+
+1724954396 c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\ejercicio 3_cuenta bancaria\cuentabancaria.h
+
+1724955220 source:c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\ejercicio 3_cuenta bancaria\main.cpp
+	<iostream>
+	"CuentaBancaria.h"
+

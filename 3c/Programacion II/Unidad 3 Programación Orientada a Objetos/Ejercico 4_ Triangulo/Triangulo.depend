@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1724970637 source:c:\users\user\desktop\guia poo\triangulo\main.cpp
+	<iostream>
+	"Triangulo.h"
+
+1724970403 c:\users\user\desktop\guia poo\triangulo\triangulo.h
+
+1724970773 source:c:\users\user\desktop\guia poo\triangulo\triangulo.cpp
+	<iostream>
+	"Triangulo.h"
+

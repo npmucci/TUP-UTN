@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1742755084 source:c:\users\user\desktop\tup-utn\3c\programacion ii\unidad 1 funciones y arrays\practica matrices torneo relampago\funciones.cpp
+	"funciones.h"
+	<iostream>
+
+1742667518 source:c:\users\user\desktop\tup-utn\3c\programacion ii\unidad 1 funciones y arrays\practica matrices torneo relampago\main.cpp
+	"menu.h"
+	"funciones.h"
+	<iostream>
+
+1742667428 c:\users\user\desktop\tup-utn\3c\programacion ii\unidad 1 funciones y arrays\practica matrices torneo relampago\menu.h
+
+1742669800 source:c:\users\user\desktop\tup-utn\3c\programacion ii\unidad 1 funciones y arrays\practica matrices torneo relampago\menu.cpp
+	"funciones.h"
+	<iostream>
+
+1742667799 c:\users\user\desktop\tup-utn\3c\programacion ii\unidad 1 funciones y arrays\practica matrices torneo relampago\funciones.h
+

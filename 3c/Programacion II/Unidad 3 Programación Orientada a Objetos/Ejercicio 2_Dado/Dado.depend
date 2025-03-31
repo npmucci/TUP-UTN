@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1724951476 source:c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\dado\dado.cpp
+	<iostream>
+	"Dado.h"
+
+1724951211 c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\dado\dado.h
+
+1724952370 source:c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\dado\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	"Dado.h"
+
+1724951476 source:c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\ejercicio 2_dado\dado.cpp
+	<iostream>
+	"Dado.h"
+
+1724951211 c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\ejercicio 2_dado\dado.h
+
+1724952370 source:c:\users\user\desktop\tup-utn\2c\programacion ii\unidad 3 programación orientada a objetos\ejercicio 2_dado\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	"Dado.h"
+
