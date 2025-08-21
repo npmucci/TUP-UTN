@@ -2,49 +2,8 @@
 
 ## Introducción
 
+ Este repositorio reúne **materiales, ejercicios y proyectos** de diversas materias de la carrera **Técnico Universitario en Programación (TUP)** de la **UTN**, organizados por cuatrimestres.                        Incluye tanto **ejercicios de programación en C/C++** como **apuntes, prácticas y trabajos de otras materias**, sirviendo como guía de estudio para los estudiantes.
 
-###### Este repositorio reúne **materiales, ejercicios y proyectos** de diversas materias de la carrera **Técnico Universitario en Programación (TUP)** de la **UTN**, organizados por cuatrimestres.                        Incluye tanto **ejercicios de programación en C/C++** como **apuntes, prácticas y trabajos de otras materias**, sirviendo como guía de estudio para los estudiantes.
-
-## Contenido por cuatrimestre y materia
-
-### **1er Cuatrimestre**
-- **ARSO (Arquitectura de Sistemas Operativos)**  
-  Apuntes, diagramas y ejercicios de comprensión de sistemas operativos.
-
-- **Matemática**  
-  Problemas resueltos de álgebra, análisis y lógica matemática.
-
-- **Organización Empresarial**  
-  Resúmenes y trabajos sobre estructuras organizacionales y gestión empresarial.
-
-- **Programación 1 (C/C++)**  
-  Ejercicios secuenciales, ciclos, funciones, arrays y proyectos completos configurados para **Code::Blocks**.
-
----
-
-### **2do Cuatrimestre**
-- **Bases de Datos 1 (BBDD1)**  
-  Ejercicios de modelado, consultas SQL y prácticas básicas de bases de datos.
-
-- **Inglés 1**  
-  Apuntes y ejercicios para reforzar vocabulario y gramática técnica.
-
-- **Estadística**  
-  Problemas resueltos y ejercicios de análisis de datos y probabilidad.
-
----
-
-### **3er Cuatrimestre**
-- **Bases de Datos 2 (BBDD2)**  
-  Prácticas avanzadas de SQL, procedimientos almacenados y optimización de consultas.
-
-- **Inglés 2**  
-  Ejercicios de lectura, redacción y comprensión técnica avanzada.
-
-- **Programación 2 (C/C++)**  
-  Programación orientada a objetos, memoria dinámica, manejo de archivos y proyectos completos listos para ejecutar.
-
----
 
 ## Características
 
@@ -102,3 +61,4 @@ Abrir PDFs o archivos de texto directamente desde la carpeta correspondiente.
 ## Licencia
 
 MIT License – Uso educativo y personal, con mención de la fuente original.
+
