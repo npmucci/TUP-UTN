@@ -16,11 +16,11 @@
 
 ## Requisitos
 
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| **Programación**    | Compilador C/C++ (G++), IDE Code::Blocks, librerías estándar.  |
-|**Bases de datos**  | Motor de bases de datos (MySQL, PostgreSQL, SQLite).   |
-|**Otros apuntes** | Lector de PDF o editor de texto.
+| Área             | Herramientas necesarias                                    |
+| ---------------- | ---------------------------------------------------------- |
+| **Programación** | Compilador C/C++ (G++), IDE Code::Blocks, librerías estándar |
+| **Bases de datos** | Motor de bases de datos (MySQL, PostgreSQL, SQLite)        |
+| **Otros apuntes** | Lector de PDF o editor de texto                             |
 
 ## Instalación y uso
 
@@ -61,4 +61,5 @@ Abrir PDFs o archivos de texto directamente desde la carpeta correspondiente.
 ## Licencia
 
 MIT License – Uso educativo y personal, con mención de la fuente original.
+
 
